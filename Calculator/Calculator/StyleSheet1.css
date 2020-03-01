@@ -1,0 +1,44 @@
+﻿
+body {
+    background-color: #cccccc
+}
+
+
+.container-fluid {
+    width: fit-content;
+    margin-top:100px;
+    padding-top:15px;
+    border:3px solid black;
+    background-color:black;
+}
+
+.text {
+    border-bottom: 3px solid black;
+    width: -webkit-fill-available;
+    height: 40px;
+   
+}
+.keypads {
+    margin:20px;
+}
+
+.btn {
+    border-radius: 50px;
+    height: 60px;
+    width: 60px;
+    font-size: 2em;
+    color:white;
+    
+}
+
+
+.row{
+    margin-bottom:10px;
+}
+
+.btn-1 {
+    background-color: #a6a6a6
+}
+.btn-2 {
+    background-color: #4d4d4d
+}
